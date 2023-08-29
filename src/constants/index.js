@@ -23,6 +23,9 @@ import {
    jobit,
    tripguide,
    threejs,
+   java,
+   cPlusPlus,
+   python,
 } from "../assets";
 
 export const navLinks = [
@@ -81,8 +84,8 @@ const technologies = [
       icon: reactjs,
    },
    {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Java",
+      icon: java,
    },
    {
       name: "Tailwind CSS",
@@ -105,12 +108,12 @@ const technologies = [
       icon: git,
    },
    {
-      name: "figma",
-      icon: figma,
+      name: "C++",
+      icon: cPlusPlus,
    },
    {
-      name: "docker",
-      icon: docker,
+      name: "Python",
+      icon: python,
    },
 ];
 
