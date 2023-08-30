@@ -1,268 +1,263 @@
 import {
-   mobile,
-   backend,
-   creator,
-   web,
-   javascript,
-   typescript,
-   html,
-   css,
-   reactjs,
-   redux,
-   tailwind,
-   nodejs,
-   mongodb,
-   git,
-   figma,
-   docker,
-   meta,
-   starbucks,
-   tesla,
-   shopify,
-   carrent,
-   jobit,
-   tripguide,
-   threejs,
-   java,
-   cPlusPlus,
-   python,
+  mobile,
+  backend,
+  creator,
+  web,
+  javascript,
+  typescript,
+  html,
+  css,
+  reactjs,
+  redux,
+  tailwind,
+  nodejs,
+  mongodb,
+  git,
+  figma,
+  docker,
+  meta,
+  atos,
+  jobit,
+  tripguide,
+  threejs,
+  java,
+  cPlusPlus,
+  python,
+  real_estate,
+  dall_e,
+  vegan_store,
 } from "../assets";
 
 export const navLinks = [
-   {
-      id: "about",
-      title: "About",
-   },
-   {
-      id: "work",
-      title: "Work",
-   },
-   {
-      id: "contact",
-      title: "Contact",
-   },
+  {
+    id: "about",
+    title: "About",
+  },
+  {
+    id: "experience",
+    title: "Work",
+  },
+  {
+    id: "project",
+    title: "Project",
+  },
+  {
+    id: "contact",
+    title: "Contact",
+  },
 ];
 
 const services = [
-   {
-      title: "Web Developer",
-      icon: web,
-   },
-   {
-      title: " Java Developer",
-      icon: mobile,
-   },
-   {
-      title: "Backend Developer",
-      icon: backend,
-   },
-   {
-      title: "FullStack Developer",
-      icon: creator,
-   },
+  {
+    title: "Web Developer",
+    icon: web,
+  },
+  {
+    title: " Java Developer",
+    icon: mobile,
+  },
+  {
+    title: "Backend Developer",
+    icon: backend,
+  },
+  {
+    title: "FullStack Developer",
+    icon: creator,
+  },
 ];
 
 const technologies = [
-   {
-      name: "HTML 5",
-      icon: html,
-   },
-   {
-      name: "CSS 3",
-      icon: css,
-   },
-   {
-      name: "JavaScript",
-      icon: javascript,
-   },
-   {
-      name: "TypeScript",
-      icon: typescript,
-   },
-   {
-      name: "React JS",
-      icon: reactjs,
-   },
-   {
-      name: "Java",
-      icon: java,
-   },
-   {
-      name: "Tailwind CSS",
-      icon: tailwind,
-   },
-   {
-      name: "Node JS",
-      icon: nodejs,
-   },
-   {
-      name: "MongoDB",
-      icon: mongodb,
-   },
-   {
-      name: "Three JS",
-      icon: threejs,
-   },
-   {
-      name: "git",
-      icon: git,
-   },
-   {
-      name: "C++",
-      icon: cPlusPlus,
-   },
-   {
-      name: "Python",
-      icon: python,
-   },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "Java",
+    icon: java,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
+  },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
+  {
+    name: "Three JS",
+    icon: threejs,
+  },
+  {
+    name: "git",
+    icon: git,
+  },
+  {
+    name: "C++",
+    icon: cPlusPlus,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
 ];
 
 const experiences = [
-   {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-         "Developing and maintaining web applications using React.js and other related technologies.",
-         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-         "Implementing responsive design and ensuring cross-browser compatibility.",
-         "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-   },
-   {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-         "Developing and maintaining web applications using React.js and other related technologies.",
-         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-         "Implementing responsive design and ensuring cross-browser compatibility.",
-         "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-   },
-   {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-         "Developing and maintaining web applications using React.js and other related technologies.",
-         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-         "Implementing responsive design and ensuring cross-browser compatibility.",
-         "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-   },
-   {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-         "Developing and maintaining web applications using React.js and other related technologies.",
-         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-         "Implementing responsive design and ensuring cross-browser compatibility.",
-         "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-   },
+  {
+    title: "Associate Developer",
+    company_name: "Atos Syntel",
+    icon: atos,
+    iconBg: "#E6DEDD",
+    date: "Sept 2021 - Oct 2022",
+    points: [
+      "Collaborated with different teams to design, develop, and maintain software programs, resulting in increased efficiency and productivity.",
+      "My involvement in the project included both the development of new features as well as the upkeep of an existing Java based system. The system also relied on SQL as its means to store data in the database.",
+      "Participated in the development and upkeep of the mainframe system, resulting in the reliable and accurate extraction of business data.Assisted in modernizing business functionalities and facilitating their integration into the production environment",
+      "Conducted thorough testing and debugging of software applications to identify and resolve issues, resulting in a significant reduction in system downtime and an increase in overall performance.",
+      "Assisted in modernizing business functionalities and facilitating their integration into the production environment.",
+    ],
+  },
+  {
+    title: "Software Intern",
+    company_name: "Trivia Software",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "Dec 2019 - March 2020",
+    points: [
+      "Acquired experience with Python 3.x related technologies.",
+      " Stayed up-to-date with emerging trends and technologies in software development.",
+      "Implemented Management System Design using tkinter for GUI and Oracle for Oracle Database CRUD operations.",
+    ],
+  },
 ];
 
 const testimonials = [
-   {
-      testimonial:
-         "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-   },
-   {
-      testimonial:
-         "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-   },
-   {
-      testimonial:
-         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-   },
+  {
+    testimonial:
+      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+    name: "Sara Lee",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
+  {
+    testimonial:
+      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+    name: "Chris Brown",
+    designation: "COO",
+    company: "DEF Corp",
+    image: "https://randomuser.me/api/portraits/men/5.jpg",
+  },
+  {
+    testimonial:
+      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Lisa Wang",
+    designation: "CTO",
+    company: "456 Enterprises",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
 ];
 
 const projects = [
-   {
-      name: "Car Rent",
-      description:
-         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-      tags: [
-         {
-            name: "react",
-            color: "blue-text-gradient",
-         },
-         {
-            name: "mongodb",
-            color: "green-text-gradient",
-         },
-         {
-            name: "tailwind",
-            color: "pink-text-gradient",
-         },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-   },
-   {
-      name: "Job IT",
-      description:
-         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-         {
-            name: "react",
-            color: "blue-text-gradient",
-         },
-         {
-            name: "restapi",
-            color: "green-text-gradient",
-         },
-         {
-            name: "scss",
-            color: "pink-text-gradient",
-         },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-   },
-   {
-      name: "Trip Guide",
-      description:
-         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-         {
-            name: "nextjs",
-            color: "blue-text-gradient",
-         },
-         {
-            name: "supabase",
-            color: "green-text-gradient",
-         },
-         {
-            name: "css",
-            color: "pink-text-gradient",
-         },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-   },
+  {
+    name: "Real Estate",
+    description:
+      "Web-based platform that allows users to search, book, and buy property from providers, providing a convenient and efficient solution for accomodation needs.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "node",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "express",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: real_estate,
+    source_code_link: "https://github.com/abdulhannan13300/real_estate",
+  },
+  {
+    name: "Dall-E clone",
+    description:
+      "The platform uses AI to create interactive art through real-time image style manipulation using the Dall-E API, allowing users to share and download their creations within the community.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "node",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "express",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "cloudinary",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: dall_e,
+    source_code_link: "https://github.com/abdulhannan13300/dall-e-clone",
+  },
+  {
+    name: "Vegan Store",
+    description:
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location. ",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+    ],
+    image: vegan_store,
+    source_code_link:
+      "https://github.com/abdulhannan13300/Learning_CSS/tree/main/VeganStore",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
