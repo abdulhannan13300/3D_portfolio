@@ -29,7 +29,7 @@ const FeedbackCard = ({
             <span className="blue-text-gradient">@</span> {name}
           </p>
           <p className="mt-1 text-secondary text-[12px]">
-            {designation} of {company}
+            {designation} at {company}
           </p>
         </div>
         <img
@@ -53,7 +53,7 @@ const Feedbacks = () => {
           <h2 className={styles.sectionHeadText}>Testimonials</h2>
         </motion.div>
       </div>
-      <div className={`${styles.paddingX} -mt-20 pb-14 flex flex-wrap gap-7`}>
+      <div className={`${styles.paddingX} -mt-20 pb-14 flex flex-wrap gap-7 `}>
         {testimonials.map((testimonial, index) => (
           <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
         ))}

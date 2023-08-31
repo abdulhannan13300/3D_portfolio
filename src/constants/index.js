@@ -8,17 +8,11 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
-  meta,
   atos,
-  jobit,
-  tripguide,
   threejs,
   java,
   cPlusPlus,
@@ -26,6 +20,8 @@ import {
   real_estate,
   dall_e,
   vegan_store,
+  def_profile,
+  trivia_software,
 } from "../assets";
 
 export const navLinks = [
@@ -139,7 +135,7 @@ const experiences = [
   {
     title: "Software Intern",
     company_name: "Trivia Software",
-    icon: meta,
+    icon: trivia_software,
     iconBg: "#E6DEDD",
     date: "Dec 2019 - March 2020",
     points: [
@@ -153,27 +149,20 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "During the whole internship we found Abdul Hannan extremely inquisitive and hardworking.",
+    name: "Employee",
+    designation: "HR",
+    company: "Trivia Software",
+    // image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: def_profile,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I've never met a developer who truly cares about their work's success like Abdul Hannan does.",
+    name: "Employee",
+    designation: "Manager",
+    company: "Atos",
+    image: def_profile,
   },
 ];
 
