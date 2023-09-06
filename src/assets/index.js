@@ -34,6 +34,7 @@ import real_estate from "./real_estate.png";
 import dall_e from "./dall_e.png";
 import vegan_store from "./vegan_store.png";
 import def_profile from "./def_profile.jpg";
+import ai_summarizer from "./ai_summarizer.png";
 
 export {
   logo,
@@ -68,5 +69,6 @@ export {
   real_estate,
   dall_e,
   vegan_store,
+  ai_summarizer,
   def_profile,
 };

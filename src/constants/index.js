@@ -22,6 +22,7 @@ import {
   vegan_store,
   def_profile,
   trivia_software,
+  ai_summarizer,
 } from "../assets";
 
 export const navLinks = [
@@ -230,20 +231,28 @@ const projects = [
     source_code_link: "https://github.com/abdulhannan13300/dall-e-clone",
   },
   {
-    name: "Vegan Store",
+    name: "AI Summarizer",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location. ",
+      "Simplify your reading with Summize, an article summarizer that transforms lengthy articles into clear and concise summaries for a quick read. ",
     tags: [
       {
-        name: "html",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "redux",
         color: "green-text-gradient",
       },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "orange-text-gradient",
+      },
     ],
-    image: vegan_store,
+    image: ai_summarizer,
     source_code_link:
       "https://github.com/abdulhannan13300/Learning_CSS/tree/main/VeganStore",
   },
