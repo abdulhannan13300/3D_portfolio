@@ -32,6 +32,14 @@
     #000000
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+.white-gradient {
+  background: rgb(207, 207, 207);
+  background: linear-gradient(
+    90deg,
+    rgba(207, 207, 207, 1) 0%,
+    rgba(255, 255, 255, 0.9360994397759104) 71%
+  );
+}
 
 .violet-gradient {
   background: #804dee;

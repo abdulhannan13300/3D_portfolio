@@ -196,6 +196,7 @@ const projects = [
     ],
     image: real_estate,
     source_code_link: "https://github.com/abdulhannan13300/real_estate",
+    // live_demo_link: ""
   },
   {
     name: "Dall-E clone",
@@ -229,6 +230,7 @@ const projects = [
     ],
     image: dall_e,
     source_code_link: "https://github.com/abdulhannan13300/dall-e-clone",
+    // live_demo_link: ""
   },
   {
     name: "AI Summarizer",
@@ -253,8 +255,8 @@ const projects = [
       },
     ],
     image: ai_summarizer,
-    source_code_link:
-      "https://github.com/abdulhannan13300/Learning_CSS/tree/main/VeganStore",
+    source_code_link: "https://github.com/abdulhannan13300/ai_summarizer",
+    // live_demo_link: ""
   },
 ];
 
