@@ -180,10 +180,10 @@ const testimonials = [
   },
   {
     testimonial:
-      "He has displayed professionalism, commitment and strong work ethic, making a significant impact on our projects",
+      "He has displayed professionalism, commitment and strong work ethic, making a significant impact on our projects.",
     name: "Director",
     designation: "Director",
-    company: "Atos",
+    company: "Arwasys Technokraft",
     image: def_profile,
   },
 ];
