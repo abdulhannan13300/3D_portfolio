@@ -178,6 +178,14 @@ const testimonials = [
     company: "Atos",
     image: def_profile,
   },
+  {
+    testimonial:
+      "He has displayed professionalism, commitment and strong work ethic, making a significant impact on our projects",
+    name: "Director",
+    designation: "Director",
+    company: "Atos",
+    image: def_profile,
+  },
 ];
 
 const projects = [
