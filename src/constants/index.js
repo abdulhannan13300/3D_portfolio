@@ -23,6 +23,7 @@ import {
   def_profile,
   trivia_software,
   ai_summarizer,
+  arwasys,
 } from "../assets";
 
 export const navLinks = [
@@ -119,6 +120,18 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Full Stack Developer Intern",
+    company_name: "Arwasys Technokraft Pvt. Ltd.",
+    icon: arwasys,
+    iconBg: "#E6DEDD",
+    date: "June 2023 - Oct 2023",
+    points: [
+      "Developed a Stock Management System, elevated user experiences, and conducted forward-thinking research on emerging technologies.",
+      "Learned and implemented a diverse range of technologies, including JavaScript, React, Node.js,Express.js, MongoDB, Python, Django, Rest API, and Git",
+      "Actively engaged in project reviews, consistently providing valuable suggestions and driving enhancements to existing systems.",
+    ],
+  },
   {
     title: "Associate Developer",
     company_name: "Atos Syntel",

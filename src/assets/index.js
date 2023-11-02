@@ -25,6 +25,7 @@ import java from "./tech/java.png";
 import cPlusPlus from "./tech/cPlusPlus.png";
 import python from "./tech/python.png";
 
+import arwasys from "./company/arwasys.png";
 import atos from "./company/atos.png";
 import trivia_software from "./company/trivia-software.png";
 
@@ -62,6 +63,7 @@ export {
   java,
   cPlusPlus,
   python,
+  arwasys,
   atos,
   trivia_software,
   carrent,
