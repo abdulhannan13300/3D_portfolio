@@ -121,15 +121,29 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full Stack Developer Intern",
-    company_name: "Arwasys Technokraft Pvt. Ltd.",
+    title: "Full Stack Developer",
+    company_name: "Arwasys Infotech Pvt. Ltd.",
     icon: arwasys,
     iconBg: "#E6DEDD",
-    date: "June 2023 - Oct 2023",
+    date: "Jan 2024 - Present",
     points: [
-      "Developed a Stock Management System, elevated user experiences, and conducted forward-thinking research on emerging technologies.",
-      "Learned and implemented a diverse range of technologies, including JavaScript, React, Node.js,Express.js, MongoDB, Python, Django, Rest API, and Git",
-      "Actively engaged in project reviews, consistently providing valuable suggestions and driving enhancements to existing systems.",
+      "Contributing to two key projects: a School ERP system (Blazor/.NET Core, SQL Server) and an Optics Plus SAAS application (React.js, Java Spring boot, SQL Server).",
+      "Design, build, and maintain scalable frontend and backend components, RESTful APIs, and database structures.",
+      "Enhance system efficiency by optimizing database queries and improving system architecture.",
+      "Collaborate with stakeholders to gather requirements and deliver high-impact solutions within tight deadlines.",
+      "Engage in end-to-end software development lifecycle: from planning and designing to deployment and maintenance.",
+    ],
+  },
+  {
+    title: "Full Stack Developer Intern",
+    company_name: "Arwasys Infotech Pvt. Ltd.",
+    icon: arwasys,
+    iconBg: "#E6DEDD",
+    date: "Jul 2023 - Dec 2023",
+    points: [
+      "Contributed to the development and enhancement of web applications using Blazor, .NET Core, React.js, SpringBoot, and SQL server.",
+      "Designed and implemented RESTful APIs and improved database queries on SQL Server to enhance system performance.",
+      "Participated in code reviews and implemented best practices to improve code quality and system reliability.",
     ],
   },
   {
@@ -140,7 +154,7 @@ const experiences = [
     date: "Sept 2021 - Oct 2022",
     points: [
       "Collaborated with different teams to design, develop, and maintain software programs, resulting in increased efficiency and productivity.",
-      "My involvement in the project included both the development of new features as well as the upkeep of an existing Java based system. The system also relied on SQL as its means to store data in the database.",
+      "My involvement in the project included both the development of new features as well as the upkeep of an existing Java-based system. The system also relied on SQL as its means to store data in the database.",
       "Participated in the development and upkeep of the mainframe system, resulting in the reliable and accurate extraction of business data.Assisted in modernizing business functionalities and facilitating their integration into the production environment",
       "Conducted thorough testing and debugging of software applications to identify and resolve issues, resulting in a significant reduction in system downtime and an increase in overall performance.",
       "Assisted in modernizing business functionalities and facilitating their integration into the production environment.",
