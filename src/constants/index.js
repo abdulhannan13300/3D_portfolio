@@ -125,25 +125,13 @@ const experiences = [
     company_name: "Arwasys Infotech Pvt. Ltd.",
     icon: arwasys,
     iconBg: "#E6DEDD",
-    date: "Jan 2024 - Present",
+    date: "Jul 2023 - Present",
     points: [
       "Contributing to two key projects: a School ERP system (Blazor/.NET Core, SQL Server) and an Optics Plus SAAS application (React.js, Java Spring boot, SQL Server).",
       "Design, build, and maintain scalable frontend and backend components, RESTful APIs, and database structures.",
       "Enhance system efficiency by optimizing database queries and improving system architecture.",
       "Collaborate with stakeholders to gather requirements and deliver high-impact solutions within tight deadlines.",
       "Engage in end-to-end software development lifecycle: from planning and designing to deployment and maintenance.",
-    ],
-  },
-  {
-    title: "Full Stack Developer Intern",
-    company_name: "Arwasys Infotech Pvt. Ltd.",
-    icon: arwasys,
-    iconBg: "#E6DEDD",
-    date: "Jul 2023 - Dec 2023",
-    points: [
-      "Contributed to the development and enhancement of web applications using Blazor, .NET Core, React.js, SpringBoot, and SQL server.",
-      "Designed and implemented RESTful APIs and improved database queries on SQL Server to enhance system performance.",
-      "Participated in code reviews and implemented best practices to improve code quality and system reliability.",
     ],
   },
   {
