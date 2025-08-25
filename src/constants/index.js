@@ -125,7 +125,7 @@ const experiences = [
     company_name: "Arwasys Infotech Pvt. Ltd.",
     icon: arwasys,
     iconBg: "#E6DEDD",
-    date: "Jul 2023 - Present",
+    date: "Nov 2023 - Present",
     points: [
       "Contributing to two key projects: a School ERP system (Blazor/.NET Core, SQL Server) and an Optics Plus SAAS application (React.js, Java Spring boot, SQL Server).",
       "Design, build, and maintain scalable frontend and backend components, RESTful APIs, and database structures.",
@@ -284,3 +284,4 @@ const projects = [
 ];
 
 export { services, technologies, experiences, testimonials, projects };
+
